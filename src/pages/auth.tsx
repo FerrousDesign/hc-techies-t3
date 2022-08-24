@@ -81,7 +81,7 @@ const Login: NextPage = () => {
               className=" m-2bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
               onClick={() => login({ email, password })}
             >
-              Sign In
+              Sign In or Not
             </button>
             <button
               className="m-2 bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
