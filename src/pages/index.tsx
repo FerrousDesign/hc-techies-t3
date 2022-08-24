@@ -57,6 +57,11 @@ const Home: NextPage = () => {
             documentation="/auth"
           />
           <FeatureCard
+            name="Delete Everything and start over"
+            description="Click here to self destruct"
+            documentation="/self_dis"
+          />
+          <FeatureCard
             name="Database"
             description="Create and view posts (public and private)"
             documentation="/posts"
